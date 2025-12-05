@@ -1,0 +1,5 @@
+{
+  "name": "LuminaCalc",
+  "description": "A world-class, aesthetic calculator featuring standard operations and an AI-powered natural language solver using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
